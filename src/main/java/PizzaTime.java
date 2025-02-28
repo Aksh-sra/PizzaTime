@@ -64,7 +64,7 @@ public class PizzaTime {
  
          //  Order Confirmation
          System.out.println("\n Address confirmed! Your order will be delivered to:");
-         System.out.println(streetNumber + " " + street + ", " + city + ", " + postalCode);
+         System.out.println(streetNumber + " " + street + ", " + city + ", " + postalCode); 
  
          scanner.close();
      }
